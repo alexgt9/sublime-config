@@ -1,0 +1,15 @@
+<snippet>
+<content><![CDATA[
+<?php
+
+namespace Signaturit;
+
+class ${1}
+{
+}
+
+]]></content>
+<tabTrigger>class</tabTrigger>
+<description>Empty class</description>
+<scope>embedding.php, text.html.basic, meta.embedded.block.php, punctuation.section.embedded.begin.php</scope>
+</snippet>

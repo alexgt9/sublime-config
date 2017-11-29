@@ -1,0 +1,12 @@
+<snippet>
+<content><![CDATA[
+
+private function ${1}(${2:\$param})
+{
+    ${3}
+}
+]]></content>
+<tabTrigger>met</tabTrigger>
+<description>Private method</description>
+<scope>embedding.php, text.html.basic, meta.embedded.block.php, source.php, meta.class.php, meta.block.php</scope>
+</snippet>

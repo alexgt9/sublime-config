@@ -1,0 +1,35 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"All Autocomplete",
+		"Colorsublime",
+		"Dockerfile Syntax Highlighting",
+		"Fix Mac Path",
+		"Git",
+		"GitGutter",
+		"Indent XML",
+		"Markdown Preview",
+		"MarkdownLivePreview",
+		"Material Theme",
+		"Package Control",
+		"PackageResourceViewer",
+		"PHP Companion",
+		"PHP CS Fixer",
+		"Phpcs",
+		"PhpDoc",
+		"PHPUnit",
+		"PHPUnit Completions",
+		"ProjectManager",
+		"SideBarEnhancements",
+		"SnippetMaker",
+		"SublimeLinter",
+		"SublimeLinter-phpcs",
+		"SublimeLinter-phpmd"
+	]
+}

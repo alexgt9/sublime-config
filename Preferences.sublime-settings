@@ -1,0 +1,35 @@
+{
+	"additional_path_items":
+	[
+		"/Users/alejandro/.composer/vendor/bin"
+	],
+	"binary_file_patterns":
+	[
+		"*.dds",
+		"*.eot",
+		"*.gif",
+		"*.ico",
+		"*.jar",
+		"*.jpeg",
+		"*.jpg",
+		"*.pdf",
+		"*.png",
+		"*.swf",
+		"*.tga",
+		"*.ttf",
+		"*.zip",
+		"/Users/alejandro/code/core/php/var/**",
+		"storage/php/var/**"
+	],
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"find_selected_text": true,
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"save_on_focus_lost": true,
+	"show_full_path": true,
+	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

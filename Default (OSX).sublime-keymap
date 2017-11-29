@@ -1,0 +1,6 @@
+[
+    { "keys": ["super+ctrl+a"], "command": "alignment" },
+    { "keys": ["alt+i"], "command": "find_use" },
+    { "keys": ["f4"], "command": "import_namespace" },
+    { "keys": ["alt+c"], "command": "insert_php_constructor_property" }
+]
