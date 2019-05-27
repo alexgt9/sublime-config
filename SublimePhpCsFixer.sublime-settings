@@ -1,4 +1,9 @@
 {
     "on_save": true,
-    "config": "/Users/alejandro/.phpcsfixer"
+    "config": [
+        "${folder}/.php_cs",
+        "${folder}/.php_cs.dist",
+        "${folder}/php/.php_cs",
+        "${folder}/php/.php_cs.dist"
+    ]
 }

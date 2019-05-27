@@ -1,6 +1,6 @@
 <snippet>
 <content><![CDATA[
-public function testThat${1}()
+public function test_that_${1}(): void
 {
     ${2}
 }

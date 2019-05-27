@@ -4,7 +4,9 @@
 
 namespace Signaturit;
 
-class ${TM_FILENAME/^(.*)\.php/$1/g} extends PHPUnit_Framework_TestCase
+use PHPUnit\Framework\TestCase;
+
+class ${TM_FILENAME/^(.*)\.php/$1/g} extends TestCase
 {
 }
 

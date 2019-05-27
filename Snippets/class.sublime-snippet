@@ -1,10 +1,10 @@
 <snippet>
 <content><![CDATA[
-<?php
+<?php declare(strict_types=1);
 
 namespace Signaturit;
 
-class ${1}
+class ${TM_FILENAME/^(.*)\.php/$1/g}
 {
 }
 

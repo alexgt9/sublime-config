@@ -1,9 +1,8 @@
 <snippet>
 <content><![CDATA[
-
-private function ${1}(${2:\$param})
+private function ${1}(${2:\$param}): ${3:void}
 {
-    ${3}
+    ${4}
 }
 ]]></content>
 <tabTrigger>met</tabTrigger>

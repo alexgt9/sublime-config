@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+\$this->mocked${1:Service} = \$this->createMock(${2}${1}::class);
+]]></content>
+<tabTrigger>mock</tabTrigger>
+<description>Mock class</description>
+<scope>embedding.php, text.html.basic, meta.embedded.block.php, source.php, meta.class.php, meta.block.php, meta.function.php, meta.block.php</scope>
+</snippet>

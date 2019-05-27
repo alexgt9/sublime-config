@@ -14,8 +14,8 @@
 		"Git",
 		"GitGutter",
 		"Indent XML",
-		"Markdown Preview",
 		"MarkdownLivePreview",
+		"MarkdownPreview",
 		"Material Theme",
 		"Package Control",
 		"PackageResourceViewer",
@@ -30,6 +30,7 @@
 		"SnippetMaker",
 		"SublimeLinter",
 		"SublimeLinter-phpcs",
-		"SublimeLinter-phpmd"
+		"SublimeLinter-phpmd",
+		"Twig"
 	]
 }
