@@ -2,9 +2,9 @@
 <content><![CDATA[
 <?php declare(strict_types=1);
 
-namespace Signaturit;
+namespace ${2}Signaturit;
 
-class ${TM_FILENAME/^(.*)\.php/$1/g}
+final class ${TM_FILENAME/^(.*)\.php/$1/g}
 {
 }
 

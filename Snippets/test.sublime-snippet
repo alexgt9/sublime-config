@@ -1,12 +1,12 @@
 <snippet>
 <content><![CDATA[
-<?php
+<?php declare(strict_types=1);
 
 namespace Signaturit;
 
 use PHPUnit\Framework\TestCase;
 
-class ${TM_FILENAME/^(.*)\.php/$1/g} extends TestCase
+final class ${TM_FILENAME/^(.*)\.php/$1/g} extends TestCase
 {
 }
 

@@ -6,10 +6,10 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
-		"Alignment",
 		"All Autocomplete",
 		"Colorsublime",
 		"Dockerfile Syntax Highlighting",
+		"Exalt",
 		"Fix Mac Path",
 		"Git",
 		"GitGutter",
@@ -31,6 +31,7 @@
 		"SublimeLinter",
 		"SublimeLinter-phpcs",
 		"SublimeLinter-phpmd",
-		"Twig"
+		"Twig",
+		"TypeScript"
 	]
 }

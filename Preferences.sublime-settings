@@ -21,6 +21,7 @@
 		"/Users/alejandro/code/core/php/var/**",
 		"storage/php/var/**"
 	],
+	"close_windows_when_empty": true,
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"find_selected_text": true,
 	"font_size": 12,
@@ -32,5 +33,5 @@
 	"show_full_path": true,
 	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,
-    "trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true
 }
